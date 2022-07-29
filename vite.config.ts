@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [
     license({
       banner: {
-        content: `Please see /license.txt for license information`,
+        content: `Please see /toolbox/license.txt for license information`,
         commentStyle: 'ignored',
       },
       thirdParty: {
