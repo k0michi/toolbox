@@ -251,6 +251,20 @@ __metadata:
   languageName: node
   linkType: hard
 
+"csv-parse@npm:^5.3.0":
+  version: 5.3.0
+  resolution: "csv-parse@npm:5.3.0"
+  checksum: 6754e85aef9dfdf19da99206b4a83f51fb881b3a75f9f7b6221864252c386410e1f535a013911d6e52f77a017d3dadf10f1e526fe31e01b2b79074c3fb4b3aaa
+  languageName: node
+  linkType: hard
+
+"date-fns@npm:^2.29.2":
+  version: 2.29.2
+  resolution: "date-fns@npm:2.29.2"
+  checksum: 08bebcceb0a5dbadae4c55e6592b9d5c07dbd7833433c7e9a1d4a424300db32589b8b48e5979b32863c9b00a48d9bab6663e580c2a4f9f203d46cbf9113b5664
+  languageName: node
+  linkType: hard
+
 "debug@npm:4, debug@npm:^4.1.0, debug@npm:^4.3.3":
   version: 4.3.4
   resolution: "debug@npm:4.3.4"
@@ -1444,6 +1458,8 @@ __metadata:
     "@types/node": ^18.6.2
     "@types/react": ^18.0.15
     "@types/react-dom": ^18.0.6
+    csv-parse: ^5.3.0
+    date-fns: ^2.29.2
     react: ^18.2.0
     react-dom: ^18.2.0
     rollup-plugin-license: ^2.8.1
